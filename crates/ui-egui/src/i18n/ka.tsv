@@ -468,8 +468,8 @@
 	Middle Eastern Features	ახლოაღმოსავლური შესაძლებლობები
 	Middle Eastern & South Asian Composer	აწყობა ახლო აღმოსავლეთისა და სამხრეთ აზიის დამწერლობებისთვის
 	Update All Text Layers	ყველა ტექსტური შრის განახლება
-	Replace All Missing Fonts	ყველა დაკარგული შრიფტის ჩანაცვლება
-	Resolve Missing Fonts…	დაკარგული შრიფტების მოგვარება…
+	Replace All Missing Fonts	ყველა ნაკლული შრიფტის ჩანაცვლება
+	Resolve Missing Fonts…	ნაკლული შრიფტების მოგვარება…
 	Font Preview Size	შრიფტის წინასწარი ნახვის ზომა
 	None	არცერთი
 	Small	პატარა
@@ -503,7 +503,7 @@
 	Edit in Quick Mask Mode	სწრაფი ნიღბის რეჟიმში რედაქტირება
 	Load Selection…	მონიშნულის ჩატვირთვა…
 	Save Selection…	მონიშნულის შენახვა…
-	Match All	ყველაფრის შეთანხმება
+	Match All	ყველას შესაბამისობა
 	Last Filter	ბოლო ფილტრი
 	Filter Gallery…	ფილტრების გალერეა…
 	Adaptive Wide Angle…	ადაპტიური ფართოკუთხა…
@@ -520,7 +520,7 @@
 	Blur More	მეტად გაბუნდოვნება
 	Box Blur…	ბლოკური გაბუნდოვნება…
 	Gaussian Blur…	გაუსის გაბუნდოვნება…
-	Lens Blur…	ლინზის გაბუნდოვნება…
+	Lens Blur…	ლინზის ბუნდოვნება…
 	Motion Blur…	მოძრაობის გაბუნდოვნება…
 	Radial Blur…	რადიალური გაბუნდოვნება…
 	Shape Blur…	ფიგურით გაბუნდოვნება…
@@ -1122,7 +1122,7 @@
 	Hue/Saturation	ფერის ტონი/გაჯერება
 	Hyphenate	სიტყვების გადატანა
 	Ignore	უგულებელყოფა
-	Ignore All	ყველას უგულებელყოფა
+	Ignore All	ყველას გამოტოვება
 	Image Size	გამოსახულების ზომა
 	Import Brushes…	ფუნჯების იმპორტი…
 	Import brushes (.abr)	ფუნჯების იმპორტი (.abr)
@@ -1536,7 +1536,7 @@
 	Preset Name	პრესეტის სახელი
 	No saved presets yet.	შენახული პრესეტები ჯერ არ არის.
 	Error	შეცდომა
-	Command	Command
+	Command	ბრძანება
 	Adjustment layers have nothing to transform	მაკორექტირებელ შრეებში გარდასაქმნელი არაფერია
 	Altitude	სიმაღლე
 	Android 1080p	Android 1080p
@@ -1555,7 +1555,7 @@
 	Brush Pose	ფუნჯის პოზა
 	Brush Tip Shape	ფუნჯის წვერის ფორმა
 	Brush Tool	ფუნჯის ხელსაწყო
-	Build-up	დაგროვება
+	Build-up	აეროგრაფი
 	Burn Tool	გამამუქებლის ხელსაწყო
 	Centimeters	სანტიმეტრი
 	Choke	შევიწროება
@@ -1579,9 +1579,9 @@
 	Current Tool	მიმდინარე ხელსაწყო
 	Custom Shape Tool	მორგებული ფიგურის ხელსაწყო
 	Cyans	ცისფრები
-	Default PhotoCraft Size	PhotoCraft-ის ნაგულისხმევი
+	Default PhotoCraft Size	ნაგულისხმევი ზომა
 	Delete Workspace	სამუშაო სივრცის წაშლა
-	Diamond	ბრილიანტისებრი
+	Diamond	ბრილიანტი
 	Dimensions:	ზომები:
 	Direction	მიმართულება
 	Distance	მანძილი
@@ -1845,7 +1845,7 @@
 	Extra large	ძალიან დიდი
 	File Handling	ფაილებთან მუშაობა
 	File path	ფაილის მისამართი
-	Fill new type layers with placeholder	ახალი ტექსტური შრეების შევსება ადგილმჭერი ტექსტით
+	Fill new type layers with placeholder	ახალი ტექსტური შრეების შევსება ჩანაცვლების ტექსტით
 	Font preview	შრიფტის წინასწარი ნახვა
 	Full size tip	სრული ზომის წვერი
 	Gamut warning color	ფერთა გამიდან გასვლის გაფრთხილების ფერი
@@ -1976,7 +1976,7 @@
 	Pin Light	წერტილოვანი სინათლე
 	Exclusion	გამორიცხვა
 	Divide	გაყოფა
-	Luminosity	სიკაშკაშე
+	Luminosity	ნათება
 @plural	{n} sample|{n} samples	{n} ნიმუში
 	{added}, {removed} subtracted	{added}, გამოკლებულია {removed}
 	Adjustment Preview	კორექციის გადახედვა
@@ -2054,9 +2054,9 @@
 	Apply the pen's tilt and rotation to the tip shape	კალმის დახრისა და შემობრუნების გამოყენება წვერის ფორმაზე
 	Mixer Brush	შემრევი ფუნჯი
 	Wet	სინოტივე
-	Mix	შერევა
+	Mix	მიქსი
 	Wetness Jitter	სინოტივის ცვალებადობა
-	Mix Jitter	შერევის ცვალებადობა
+	Mix Jitter	მიქსის ცვალებადობა
 	Show the layer mask as an overlay	შრის ნიღბის გადაფარვად ჩვენება
 	Toggle visibility	ხილვადობის ჩართვა/გამორთვა
 	Unlink the mask from the layer	ნიღბის შრისგან გათიშვა
@@ -2143,7 +2143,7 @@
 	3D	3D
 	Toolbars	ხელსაწყოთა ზოლები
 	Move	გადაადგილება
-	Wand	ჯადოსნური ჯოხი
+	Wand	ჯოხი
 	Pencil	ფანქარი
 	Clone Stamp	კლონირების შტამპი
 	Healing	აღდგენა
@@ -2262,7 +2262,7 @@
 	Subscript	ქვედა ინდექსი
 	Ligature	ლიგატურა
 	Alternative	ალტერნატიული
-	Roman	ჩვეულებრივი
+	Roman	რომაული
 	Bold Italic	მუქი დახრილი
 	Ultra Light	ულტრა ღია
 	Extra Light	ძალიან ღია
@@ -2272,7 +2272,7 @@
 	Condensed	შევიწროებული
 	First Line Indent	პირველი სტრიქონის შეწევა
 	Hanging Punctuation	ჩამოკიდებული პუნქტუაცია
-	Roman Hanging Punctuation	ლათინური ჩამოკიდებული პუნქტუაცია
+	Roman Hanging Punctuation	ლათინური გამოწეული პუნქტუაცია
 	Avoid Widows/Orphans	ობოლი სტრიქონების თავიდან აცილება
 	Compose	აწყობა
 	Adobe Single-line Composer	Adobe-ის სტრიქონის მიხედვით აწყობა
@@ -2326,8 +2326,8 @@
 	15 fps	15 კადრი/წმ
 	10 fps	10 კადრი/წმ
 	Current Time	მიმდინარე დრო
-	Out	დასასრული
-	In	დასაწყისი
+	Out	გამოსვლა
+	In	შესვლა
 	Duration	ხანგრძლივობა
 	Repeat	გამეორება
 	Play Once	ერთხელ დაკვრა
@@ -2692,7 +2692,7 @@ cameraRaw	Whites	თეთრები
 	Display name	საჩვენებელი სახელი
 	Real name	ნამდვილი სახელი
 	Reverse the order	რიგის შებრუნება
-	Grab bag	სია
+	Grab bag	სხვადასხვა
 	Table	ცხრილი
 	Name (A–Z)	სახელი (ა–ჰ)
 	Merged PRs	გაერთიანებული PR-ები
@@ -2716,7 +2716,7 @@ cameraRaw	Whites	თეთრები
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: PR: {prs}, კომიტი: {commits}, სტრიქონი: +{added} / −{deleted} (Δ {delta}), ბინარული ფაილი: +{binAdded} / −{binDeleted}, {first} – {last}
 
 # Swatches panel
-	Create new swatch	ფერის ახალი ნიმუშის შექმნა
+	Create new swatch	ახალი ფერის ნიმუშის შექმნა
 	New Swatch…	ფერის ახალი ნიმუში…
 	New Swatch Group…	ფერის ნიმუშების ახალი ჯგუფი…
 	Import Swatches…	ფერის ნიმუშების იმპორტი…
@@ -2949,9 +2949,9 @@ cameraData	Lens	ობიექტივი
 	Change Panel Layout	პანელების განლაგების შეცვლა
 	Close Panel	პანელის დახურვა
 	Dock Panel	პანელის მიმაგრება
-	Float Panel	პანელის მცურავად გადაქცევა
+	Float Panel	მცურავი პანელი
 	Move Panel	პანელის გადაადგილება
-	Group with	დაჯგუფება შემდეგთან
+	Group with	ერთად დაჯგუფება
 	Panel menu	პანელის მენიუ
 	Resize panel window	პანელის ფანჯრის ზომის შეცვლა
 	Resize panels	პანელების ზომის შეცვლა
@@ -2960,7 +2960,7 @@ cameraData	Lens	ობიექტივი
 	Next Document	შემდეგი დოკუმენტი
 	Previous Document	წინა დოკუმენტი
 	W x H x Resolution	სიგ. x სიმ. x გარჩევადობა
-	Front Image	წინა პლანის გამოსახულება
+	Front Image	წინა გამოსახულება
 	Frame Tool	ჩარჩოს ხელსაწყო
 	Create a new rectangular frame	ახალი მართკუთხა ჩარჩოს შექმნა
 	Create a new elliptical frame	ახალი ელიფსური ჩარჩოს შექმნა
@@ -3016,7 +3016,7 @@ cameraData	Lens	ობიექტივი
 	Refine Edge Brush (R)	კიდის დაზუსტების ფუნჯი (R)
 	Expand Detection Area	აღმოჩენის არის გაფართოება
 	Restore Original Edge	საწყისი კიდის აღდგენა
-	Paint over hair or fur on the image; Alt paints the other mode	გამოსახულებაზე თმას ან ბეწვს ფუნჯით გადაუსვით; Alt მეორე რეჟიმით ხატავს
+	Paint over hair or fur on the image; Alt paints the other mode	გამოსახულებაზე თმა ან ბეწვი გადაღებეთ; Alt მეორე რეჟიმით ხატავს
 	Clear Brush Strokes	ფუნჯის მონასმების გასუფთავება
 	Show rulers	სახაზავების ჩვენება
 
@@ -3028,7 +3028,7 @@ layerLabel	No Color	ფერის გარეშე
 	Preferences…	პარამეტრები…
 	Actual Pixels	რეალური პიქსელები
 	Clipping Mask	მომჭრელი ნიღაბი
-	Tool Options	ხელსაწყოს პარამეტრები
+	Tool Options	ხელსაწყოების პარამეტრები
 	Color Picker	ფერის ამრჩევი
 	Color Swatches	ფერის ნიმუშები
 	Linear Dodge	წრფივი გაღიავება
@@ -3039,7 +3039,7 @@ layerLabel	No Color	ფერის გარეშე
 	Enable	ჩართვა
 	Disable	გამორთვა
 	On	ჩართული
-	Clear Selection	მონიშვნის მოხსნა
+	Clear Selection	მონიშნულის გასუფთავება
 	Invert Selection	მონიშვნის შებრუნება
 	Select Inverse	მონიშვნის შებრუნება
 	Contract	შევიწროება
@@ -3132,7 +3132,7 @@ layerLabel	No Color	ფერის გარეშე
 	Transformation	გარდაქმნა
 	Scaling	მასშტაბირება
 	Canvas Size	ტილოს ზომა
-	Percentage	პროცენტი
+	Percentage	პროცენტული
 	Degrees	გრადუსი
 	Middle	შუა
 	Diameter	დიამეტრი
@@ -3240,7 +3240,7 @@ layerLabel	No Color	ფერის გარეშე
 	Black Clip	შავის მოკვეთა
 	White Clip	თეთრის მოკვეთა
 	Fuzziness	გაბნეულობა
-	Source Layer	წყაროს შრე
+	Source Layer	წყარო შრე
 	Neutralize	ნეიტრალიზება
 	Use Selection In Source	წყაროში მონიშნულის გამოყენება
 	Use Selection In Target	სამიზნეში მონიშნულის გამოყენება
@@ -3332,9 +3332,9 @@ layerLabel	No Color	ფერის გარეშე
 	Reduce Color Noise	ფერადი ხმაურის შემცირება
 	Sharpen Details	დეტალების გამკვეთრება
 	Remove Jpeg Artifact	JPEG არტეფაქტის მოცილება
-	Blade Curvature	დიაფრაგმის ფირფიტების სიმრუდე
+	Blade Curvature	ფრთების სიმრუდე
 	Depth Map	სიღრმის რუკა
-	Focal Distance	ფოკუსირების მანძილი
+	Focal Distance	ფოკუსური მანძილი
 	Focus	ფოკუსი
 	Transition	გადასვლა
 	Radius X	რადიუსი X
@@ -3411,7 +3411,7 @@ layerLabel	No Color	ფერის გარეშე
 	Bamboo	ბამბუკი
 	Bas Relief	ბარელიეფი
 	Berries	კენკრა
-	Blast	ძლიერი ქარი
+	Blast	აფეთქება
 	Bleach Bypass	გაუთეთრებელი დამუშავება
 	Blocks	ბლოკები
 	Brick	აგური
@@ -3663,8 +3663,8 @@ layerLabel	No Color	ფერის გარეშე
 	Highlight	ღია ტონი
 	Image Processor	გამოსახულებების დამმუშავებელი
 	Install Plug-in	პლაგინის დაყენება
-	Interpret Footage	მასალის ინტერპრეტაცია
-	Iris Blur	დიაფრაგმის გაბუნდოვნება
+	Interpret Footage	ვიდეომასალის ინტერპრეტაცია
+	Iris Blur	ირისის გაბუნდოვნება
 	Jag	დაკბილულობა
 	Label	იარლიყი
 	Layer Comps to Files	შრეების კომპოზიციები ფაილებად
@@ -3673,7 +3673,7 @@ layerLabel	No Color	ფერის გარეშე
 	Layer from Background	შრე ფონიდან
 	Layers to Files	შრეები ფაილებად
 	Legacy	მოძველებული
-	Lens Blur	ლინზის გაბუნდოვნება
+	Lens Blur	ლინზის ბუნდოვნება
 	Lens Correction	ობიექტივის კორექცია
 	Lens Flare	ობიექტივის ანარეკლი
 	Lighting Effects	განათების ეფექტები
@@ -3682,7 +3682,7 @@ layerLabel	No Color	ფერის გარეშე
 	Lum	სიკ.
 	Match Color	ფერის შეთანხმება
 	Merge to HDR Pro	HDR Pro-ში შერწყმა
-	Mezzotint	მეცოტინტა
+	Mezzotint	მეცოტინტო
 	Mosaic	მოზაიკა
 	Motion Blur	მოძრაობის გაბუნდოვნება
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	ფაილების ჩაშენებული გადათრევა-ჩაგდება Wayland-ზე ჯერ მხარდაჭერილი არ არის. გამოიყენეთ ფაილი › გახსნა, ან გაუშვით PhotoCraft XWayland-ში: `WAYLAND_DISPLAY= photocraft`.
@@ -3698,8 +3698,8 @@ layerLabel	No Color	ფერის გარეშე
 	Paths to Illustrator	ტრაექტორიები Illustrator-ში
 	Photomerge	Photomerge
 	Picture Frame	სურათის ჩარჩო
-	Pinch	შეკუმშვა
-	Place Embedded	ჩადგმულის განთავსება
+	Pinch	მოჭყლეტა
+	Place Embedded	ჩაშენებულის განთავსება
 	Place Linked	დაკავშირებულის განთავსება
 	Place Scale Marker	მასშტაბის მარკერის განთავსება
 	Plastic Wrap	პლასტიკური შეფუთვა
@@ -3710,16 +3710,16 @@ layerLabel	No Color	ფერის გარეშე
 	Preset Manager	პრესეტების მართვა
 	Profile	პროფილი
 	Radial Blur	რადიალური გაბუნდოვნება
-	Raw Defaults	Raw-ის ნაგულისხმევი პარამეტრები
+	Raw Defaults	Raw ნაგულისხმევი პარამეტრები
 	Rectangular To Polar	მართკუთხიდან პოლარულში
 	Reduce Noise	ხმაურის შემცირება
 	Relink to File	ფაილთან ხელახლა დაკავშირება
 	Render Video	ვიდეოს რენდერი
 	Replace Color	ფერის ჩანაცვლება
 	Replace Contents	შიგთავსის ჩანაცვლება
-	Replace Footage	მასალის ჩანაცვლება
-	Resolve Missing Fonts	დაკარგული შრიფტების მოგვარება
-	Ripple	ტალღოვნება
+	Replace Footage	ვიდეომასალის ჩანაცვლება
+	Resolve Missing Fonts	დაკარგული შრიფტების აღდგენა
+	Ripple	ტალღა
 	Rough Pastels	უხეში პასტელი
 	Sat	გაჯ.
 	Save a Copy	ასლის შენახვა
@@ -3748,16 +3748,16 @@ layerLabel	No Color	ფერის გარეშე
 	Tiles	ფილები
 	Tilt-Shift	დახრა-წანაცვლება
 	Tool	ხელსაწყო
-	Trace Contour	კონტურის გავლება
+	Trace Contour	კონტურის მოხაზვა
 	Trap	ტრეპინგი
 	Tree	ხე
 	Trim	შეკვეცა
 	Turbulent	ტურბულენტობა
-	Twirl	დაგრეხა
+	Twirl	გრიგალი
 	Unsharp Mask	არამკვეთრი ნიღაბი
 	Use File › Open to open an image.	გამოსახულების გასახსნელად გამოიყენეთ ფაილი › გახსნა.
 	Vanishing Point	გაქრობის წერტილი
-	Variable Data Sets	ცვლადი მონაცემების ნაკრებები
+	Variable Data Sets	ცვლადი მონაცემთა ნაკრებები
 	Video Frames to Layers	ვიდეოკადრები შრეებად
 	WIA Support	WIA მხარდაჭერა
 	Warp Text	ტექსტის დეფორმაცია
@@ -3806,7 +3806,7 @@ layerLabel	No Color	ფერის გარეშე
 	Enable animations	ანიმაციების ჩართვა
 	Saving {percent}	ინახება: {percent}
 	Transform On Drop	გარდაქმნა ჩაგდებისას
-	Scale or rotate the moved area, then press {key}	შეცვალეთ გადაადგილებული არის მასშტაბი ან შეაბრუნეთ ის, შემდეგ დააჭირეთ {key}-ს
+	Scale or rotate the moved area, then press {key}	გადაადგილებული არის მასშტაბირება ან შემობრუნება, შემდეგ დააჭირეთ {key}-ს
 	Drag: draw freehand · {alt}-click: straight segment · Release on the start point: close	გადათრევა: თავისუფალი ხატვა · {alt}-დაწკაპუნება: სწორი მონაკვეთი · გაშვება საწყის წერტილზე: დახურვა
 	Amount:	რაოდენობა:
 	Protect:	დაცვა:
@@ -4037,7 +4037,7 @@ cameraRaw	Shadows	ჩრდილები
 	Ask On Mismatch	შეუსაბამობისას შეკითხვა
 	Ask On Paste	ჩასმისას შეკითხვა
 	Ask On Missing	არარსებობისას შეკითხვა
-	Intent	რენდერინგის მეთოდი
+	Intent	განზრახვა
 	Bpc	შავი წერტილის კომპენსაცია
 	Blend Text Gamma	ტექსტის ფერების შერევა გამით
 	Monitor Profile	მონიტორის პროფილი
@@ -4079,7 +4079,7 @@ document	Orientation	ორიენტაცია
 	Thaw Mask	ნიღბის გალღობა
 	Freeze Lasso	ლასოთი გაყინვა
 	Reconstruct All	ყველაფრის რეკონსტრუქცია
-	Mask None	ნიღბის მოხსნა
+	Mask None	ნიღბის გარეშე
 colorRange	Invert	ინვერსია
 layers	Fill	შევსება
 layers	Fill:	შევსება:
